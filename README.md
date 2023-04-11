@@ -1,5 +1,9 @@
 # ESTUDO - PHP
 
+Este projeto cria um formulário para cadastrar NOME e EMAIL de alunos em um banco de dados.<br>
+É possível atualizar o cadastro e/ou deletá-lo.<br><br>
+Ao cadastrar o aluno seu nome e e-mail são exibidos na tela, formando a lista de alunos de uma sala.
+
 ## OBJETIVOS
 
 - Este projeto foi desenvolvido para estudar PHP<br>
